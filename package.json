@@ -1,0 +1,10 @@
+{
+  "name": "atom-language-terraform",
+  "version": "0.0.1",
+  "description": "Terraform language support for Atom",
+  "repository": "https://github.com/ngenator/atom-language-terraform",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

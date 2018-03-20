@@ -1,0 +1,6 @@
+'scopeName': 'source.terraform.tfvars'
+'name': 'Terraform'
+'comment': 'Terraform language'
+'fileTypes': [
+  'tfvars'
+]
